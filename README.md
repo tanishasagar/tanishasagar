@@ -12,12 +12,25 @@ I hold the Google Cybersecurity Certificate and have completed Cisco's CCNA cour
 
 # 🛠️ Skills & Tools
 
+**Offensive Security:** Penetration Testing · Vulnerability Assessment · OSINT & Reconnaissance · SQL Injection Testing · XSS
+
+**Tools:**
+
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
 ![BurpSuite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square)
 ![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-000000?style=flat-square)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-000000?style=flat-square)
+![Nuclei](https://img.shields.io/badge/-Nuclei-000000?style=flat-square)
+![Nikto](https://img.shields.io/badge/-Nikto-000000?style=flat-square)
+![Gobuster](https://img.shields.io/badge/-Gobuster-000000?style=flat-square)
+
+**Defensive Security:** SIEM Fundamentals · Log Analysis · Incident Response · Threat Detection · Network Security
+
+**Other:**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 # 🏆 Experience & Projects
 
