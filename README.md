@@ -1,4 +1,4 @@
-#🔎 About Me
+# 🔎 About Me
 
 Cybersecurity fresher based in Delhi NCR, with hands-on experience in penetration testing, vulnerability assessment, and OSINT gained through an authorized pentest on live production infrastructure during my internship.
 
