@@ -1,5 +1,5 @@
-## 🔎 About Me
----
+#🔎 About Me
+
 Cybersecurity fresher based in Delhi NCR, with hands-on experience in penetration testing, vulnerability assessment, and OSINT gained through an authorized pentest on live production infrastructure during my internship.
 
 I hold the Google Cybersecurity Certificate and have completed Cisco's CCNA course. Currently deepening my practical skills through self-directed labs while applying for entry-level VAPT, SOC analyst, and security analyst roles.
